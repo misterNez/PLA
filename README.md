@@ -8,6 +8,6 @@ DESCRIPTION
 -A random hypothesis line h is generated. The algorithm uses a subset of points (training set) and binary classification to recursively
     alter h, until all training points are properly classified (h = g =~ x - y = 0).
 
--Compare the final hypothesis line with a difference subset of points (test set).
+-Compare the final hypothesis line with a different subset of points (test set).
 
 -Misclassification error of the training set and test set are displayed.
